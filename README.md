@@ -1,2 +1,1 @@
-# blnq-testlewis
-Created with Blnq Studio
+# Blnq Project
